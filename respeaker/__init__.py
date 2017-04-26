@@ -19,3 +19,4 @@ from respeaker.microphone import Microphone
 from respeaker.spi import SPI, spi
 from respeaker.player import Player
 from respeaker.pixel_ring import PixelRing, pixel_ring
+from respeaker.bing_speech_api import BingSpeechAPI
